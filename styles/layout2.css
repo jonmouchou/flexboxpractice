@@ -1,0 +1,17 @@
+.content {
+    display: flex;
+}
+
+article {
+    display: flex;
+}
+
+nav {
+    margin: 1em;
+    order: -1;
+}
+
+.article-content {
+    display: flex;
+    flex-direction: column;
+}
